@@ -1,0 +1,181 @@
+{
+  "Name": "Tolya Summer UST",
+  "Author": "Tolya Summer",
+  "Description": "Toly Summer on every level",
+  "levels": {
+    "0-0": {
+      "clean": "toly-summer1.mp3",
+      "battle": "toly-summer3.mp3"
+    },
+    "0-1": {
+      "clean": "toly-summer2.mp3",
+      "battle": "toly-summer4.mp3"
+    },
+    "0-2": {
+      "clean": "toly-summer3.mp3",
+      "battle": "toly-summer5.mp3"
+    },
+    "0-3": {
+      "clean": "toly-summer4.mp3",
+      "battle": "toly-summer1.mp3"
+    },
+    "0-4": {
+      "clean": "toly-summer5.mp3",
+      "battle": "toly-summer2.mp3"
+    },
+    "0-5": {
+      "boss1": "toly-summer3.mp3",
+      "boss2": "toly-summer3.mp3"
+    },
+    "1-1": {
+      "clean1": "toly-summer2.mp3",
+      "clean2": "toly-summer2.mp3",
+      "battle": "toly-summer4.mp3"
+    },
+    "1-2": {
+      "clean0": "toly-summer3.mp3",
+      "clean1": "toly-summer3.mp3",
+      "clean2": "toly-summer3.mp3",
+      "battle0": "toly-summer5.mp3",
+      "battle1": "toly-summer5.mp3",
+      "battle2": "toly-summer5.mp3"
+    },
+    "1-3": {
+      "clean": "toly-summer4.mp3",
+      "battle": "toly-summer1.mp3",
+      "boss": "toly-summer1.mp3"
+    },
+    "1-4": {
+      "piano": "toly-summer5.mp3",
+      "intro": "toly-summer5.mp3",
+      "boss": "toly-summer2.mp3"
+    },
+    "2-1": {
+      "clean": "toly-summer1.mp3",
+      "battle": "toly-summer3.mp3"
+    },
+    "2-2": {
+      "clean": "toly-summer2.mp3",
+      "battle": "toly-summer4.mp3"
+    },
+    "2-3": {
+      "clean": "toly-summer3.mp3",
+      "battle": "toly-summer5.mp3"
+    },
+    "2-4": {
+      "boss1": "toly-summer1.mp3",
+      "boss2": "toly-summer1.mp3"
+    },
+    "3-1": {
+      "clean1": "toly-summer5.mp3",
+      "clean2": "toly-summer5.mp3",
+      "battle1": "toly-summer2.mp3",
+      "battle2": "toly-summer2.mp3"
+    },
+    "3-2": {
+      "intro1": "toly-summer1.mp3",
+      "intro2": "toly-summer1.mp3",
+      "boss": "toly-summer3.mp3"
+    },
+    "4-1": {
+      "clean": "toly-summer2.mp3",
+      "battle": "toly-summer4.mp3"
+    },
+    "4-2": {
+      "clean": "toly-summer3.mp3",
+      "battle": "toly-summer5.mp3"
+    },
+    "4-3": {
+      "clean1": "toly-summer4.mp3",
+      "clean2": "toly-summer4.mp3",
+      "clean3": "toly-summer4.mp3",
+      "battle1": "toly-summer1.mp3",
+      "battle2": "toly-summer1.mp3",
+      "battle3": "toly-summer1.mp3"
+    },
+    "4-4": {
+      "drone": "toly-summer5.mp3",
+      "bassline": "toly-summer5.mp3",
+      "intro": "toly-summer5.mp3",
+      "boss": "toly-summer2.mp3",
+      "outro": "toly-summer5.mp3"
+    },
+    "5-1": {
+      "clean": "toly-summer1.mp3",
+      "battle": "toly-summer3.mp3"
+    },
+    "5-2": {
+      "boss1": "toly-summer4.mp3",
+      "boss2": "toly-summer4.mp3",
+      "boss3": "toly-summer4.mp3"
+    },
+    "5-3": {
+      "clean1": "toly-summer3.mp3",
+      "clean2": "toly-summer3.mp3",
+      "battle1": "toly-summer5.mp3",
+      "battle2": "toly-summer5.mp3"
+    },
+    "5-4": {
+      "boss1": "toly-summer1.mp3",
+      "boss2": "toly-summer1.mp3"
+    },
+    "6-1": {
+      "clean": "toly-summer5.mp3",
+      "battle": "toly-summer2.mp3",
+      "boss": "toly-summer2.mp3"
+    },
+    "6-2": {
+      "boss": "toly-summer3.mp3"
+    },
+    "7-1": {
+      "clean": "toly-summer2.mp3",
+      "battle": "toly-summer4.mp3",
+      "boss1": "toly-summer4.mp3",
+      "boss2": "toly-summer4.mp3"
+    },
+    "7-2": {
+      "clean1": "toly-summer3.mp3",
+      "clean2": "toly-summer3.mp3",
+      "battle1": "toly-summer5.mp3",
+      "battle2": "toly-summer5.mp3"
+    },
+    "7-3": {
+      "clean1": "toly-summer4.mp3",
+      "clean2": "toly-summer4.mp3",
+      "battle1": "toly-summer1.mp3",
+      "battle2": "toly-summer1.mp3"
+    },
+    "7-4": {
+      "outside1": "toly-summer5.mp3",
+      "outside2": "toly-summer5.mp3",
+      "outside3": "toly-summer5.mp3",
+      "outside4": "toly-summer5.mp3",
+      "outside5": "toly-summer5.mp3",
+      "outside6": "toly-summer5.mp3",
+      "inside1": "toly-summer5.mp3",
+      "inside2": "toly-summer5.mp3",
+      "inside3": "toly-summer5.mp3",
+      "escape1": "toly-summer2.mp3",
+      "escape2": "toly-summer2.mp3",
+      "escape3": "toly-summer2.mp3"
+    },
+    "P-1": {
+      "intro1": "toly-summer1.mp3",
+      "intro2": "toly-summer1.mp3",
+      "intro3": "toly-summer1.mp3",
+      "intro4": "toly-summer1.mp3",
+      "boss1": "toly-summer3.mp3",
+      "speech": "toly-summer3.mp3",
+      "boss2": "toly-summer3.mp3"
+    },
+    "P-2": {
+      "intro": "toly-summer2.mp3",
+      "weezer": "toly-summer2.mp3",
+      "clean": "toly-summer2.mp3",
+      "battle": "toly-summer4.mp3",
+      "boss1": "toly-summer4.mp3",
+      "speech": "toly-summer4.mp3",
+      "boss2": "toly-summer4.mp3"
+    }
+  }
+}
